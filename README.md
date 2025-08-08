@@ -23,6 +23,7 @@ A single page that collects my iOS work: published apps, open-source projects, G
 ### Software Engineering
 - **SOLID Principle [Theory] explained by me** (5 Articles) → [Read on Medium](https://medium.com/@mrezkys/list/solid-principle-explained-by-me-c2e5137f1576?source=my_lists---------8-------c2e5137f1576----------------------------)  
 - **SOLID Principle [Practical] with Swift by me** (5 Articles) → [Read on Medium](https://medium.com/@mrezkys/list/solid-principle-practical-with-me-b9d37878ad6c?source=my_lists---------7-------b9d37878ad6c----------------------------)
+- **iOS Development by me (2 Articles)** → [Read on Medium](https://medium.com/@mrezkys/list/ios-development-by-me-da8e962ece7e?source=user_lists---------10-------da8e962ece7e------54ace47ef1f5----------------------)
 
 ---
 
