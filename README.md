@@ -103,4 +103,10 @@ A Swift package implementing the Profile Matching method — a popular technique
 Developed to apply and share college knowledge.  
 *Released: March 2025*  
 
+---
 
+## 🤝 Contact
+- Email: mrezkysulihin@gmail.com
+- Medium: https://mrezkys.medium.com
+- GitHub: https://github.com/mrezkys
+- LinkedIn: https://www.linkedin.com/in/mrezkys
