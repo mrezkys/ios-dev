@@ -77,3 +77,30 @@ SwiftUI + MVVM architecture.
 Swift Student Challenge 2023 submission app.  
 *Released: April 2023*  
 
+
+### UIKit
+
+**[AlgebraOne](https://github.com/mrezkys/AlgebraOne)**  
+VIPER Architecture.  
+An iOS application designed to teach users how to solve 1-variable linear equations step-by-step in a fun and engaging way.  
+*Released: April 2025*  
+
+**AlgebraTwo (Coming Soon)**  
+VIP Architecture.  
+An iOS application designed to teach users how to solve 2-variable linear equations step-by-step in a fun and engaging way.  
+*Release Date: TBA*  
+
+### Objective-C
+
+**[LearnObjectiveC – ToDo List App](https://github.com/mrezkys/LearnObjectiveC-ToDoListApp)**  
+To-do list application built while learning iOS development in Objective-C.  
+*Released: August 2025*  
+
+### Swift Package Manager
+
+**[SwiftProfileMatching](https://github.com/mrezkys/SwiftProfileMatching)**  
+A Swift package implementing the Profile Matching method — a popular technique used in Decision Support Systems (DSS).  
+Developed to apply and share college knowledge.  
+*Released: March 2025*  
+
+
